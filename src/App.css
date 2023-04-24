@@ -1,0 +1,87 @@
+.containerForNav{
+background-color: white;
+}
+
+.welcomeForHome{
+font-size: 48px;
+padding-left: 2vh;
+}
+
+.homeTitle{
+text-decoration: none;
+padding-left: 2vh;
+color: chartreuse;
+}
+
+.peopleDataDiv{
+padding-left: 2vh;
+}
+
+.planetDataDiv{
+padding-left: 2vh;    
+}
+
+.filmDataDiv{
+padding-left: 2vh;    
+}
+
+.peopleLinkItem{
+text-decoration: none;
+font-size: 22px;
+padding-left: 2vh;
+margin-top: 2vh;
+color: black;
+}
+
+.planetLinkItem{
+text-decoration: none;
+font-size: 22px;
+padding-left: 2vh;
+margin-top: 2vh;
+color: black;
+}
+
+.filmLinkItem{
+text-decoration: none;
+font-size: 22px;
+padding-left: 2vh;
+margin-top: 2vh;
+color: black;
+}
+
+.websiteNavAndTitle{
+font-size: 44px;
+display: flex;
+color: white;
+background-color: black;
+height: 7vh;
+align-items: center;
+margin-bottom: 1vh;
+}
+
+
+.navLinkItem {
+    display: inline;
+    
+}
+
+ul.navLinkList{
+width: fit-content;
+padding-left: 2vh;
+}
+
+.navLinkA{
+    text-decoration: none;
+    background-color:black;
+    color: white;
+}
+
+.active {
+color: aqua;
+
+}
+
+a:hover{
+color: aqua;
+transition: 0.3s;
+}
